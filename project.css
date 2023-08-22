@@ -1,0 +1,229 @@
+*
+{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+    
+}
+.full-container
+{
+    overflow:hidden;
+}
+
+.header
+{
+    display:flex;
+    background-color:#2874f0;
+    color:white;
+    align-items:center;
+    justify-content:center;
+    font-size:0.70rem;
+    
+   
+}
+
+.nav
+{
+    display:flex;
+    flex-direction:row;
+    align-items:center;
+    
+    
+}
+
+.img-logo img
+{
+    
+    height:1rem;
+    width:3rem;
+    
+}
+
+.input input{
+    padding-left:5rem;
+    margin-left:2rem;
+}
+.btn
+{
+    
+    margin-left:2rem;
+    
+}
+button{
+    padding:0rem 1rem 0rem 1rem;
+    color:#2874f0;
+    background-color:white;
+}
+.Become-i
+{
+    margin-left:2rem;
+    position: relative;
+    top:0px;
+}
+.select
+{
+    margin-left:2rem;
+}
+select{
+    padding:0rem 1rem 0rem 1rem;
+    text-align:center;
+}
+.cart
+{
+    margin-left:2rem;
+    display:flex;
+    margin-top:1rem;
+}
+.menu
+{
+    
+    display:none;
+}
+.photo
+{
+    display:flex;
+    justify-content:center;
+    background-color:white;
+}
+.grocry img{
+    height: 40px;
+    width:100%;
+    margin-left:2rem;
+}
+.pa
+{
+    font-size:0.50rem;
+    margin-left:3rem;
+}
+.img-top{
+    display:flex;
+    justify-content:center;
+}
+.img-top img{
+    height:200px;
+    width:100%;
+    
+}
+.angle
+{
+    display:flex;
+    align-items:center;
+    font-size:1rem;
+    
+
+}
+.left 
+{
+    display:flex;
+    position: relative;
+    left:-800px;
+}
+.elctro
+{
+    display:flex;
+    position:relative;
+    top:20px;
+    background-color:white;
+    
+}
+.elc-img img{
+    height:100px;
+    width: 50%;
+    margin-left:3rem;
+}
+.hea
+{
+    margin-left:3rem;
+    font-size:0.80rem;
+    text-align:center;
+    
+    margin-top:0px;
+    
+    
+    
+}
+h4{
+    text-align:center;
+}
+.light
+{
+    
+    font-size:0.60rem;
+    opacity:0.5;
+}
+.paragraph
+
+{
+    position: relative;
+    top:30px;
+    background-color:white;
+    color:#565656;
+}
+.para{
+      font-size:8px;
+}
+.one-stop
+{
+    position:relative;
+    top:30px;
+    color:#565656;
+}
+.E-comm
+{
+     font-size:8px;
+}
+.footer
+{
+    position:relative;
+    top:px;
+    display:flex;
+    justify-content:center;
+    justify-content:space-evenly;
+    
+    
+
+    
+}
+.hea-h
+{
+    color:#878787;
+}
+.para-p
+{
+    color:white;
+    font-size:0.50rem;
+}
+.mail
+{
+    color:white;
+    font-size:0.50rem;
+}
+.Become{
+    display:flex;
+    font-size:10px;
+    justify-content:center;
+    justify-content:space-evenly;
+    color:white;
+    position: relative;
+    top:20px;
+}
+.im-Be img{
+    height:10px;
+}
+.hany-f
+{
+    
+    position: relative;
+    top:60px;
+    background-color:#212121;
+    height:200px;
+    
+    
+}
+.elc-img:hover{
+             transform:scale(0.90);
+             
+}
+
+
+
